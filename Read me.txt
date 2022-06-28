@@ -1,0 +1,2 @@
+## Dans ce projet, j'ai utilisée HTML,CSS,Bootstrap et jQuery pour produire des pages Front-end
+## Les images utilisées ont été piquées sur https://pixabay.com/fr/ . Bien vouloir consulter les conditions d'utilisations de ces images.

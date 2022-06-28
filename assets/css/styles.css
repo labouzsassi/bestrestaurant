@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Redressed&family=Merriweather:wght@300;400;700&display=swap');
+.redressed{
+    font-family: 'Redressed', cursive;
+}
+.merriweather{
+    font-family: 'Merriweather', serif;
+}
+/* start navbar */
+.cc-navbar{
+background-color: rgba(0,0,0,0.55);
+font-family: 'Merriweather',serif;
+box-shadow: 1px 1px 3px rgba(255,255,255,0.54);
+z-index: 99;
+}
+.cc-navbar .nav-link{
+    border-bottom: 1px solid transparent;
+    transition: padding-bottom 04.s ease-in-out, border-color 0.3s ease;
+}
+.cc-navbar .nav-link:hover{
+   padding-bottom: 20px;
+   border-bottom-color: turquoise;
+}
+.btn-order{
+    color:turquoise;
+    border-color:turquoise;
+    transition: 0,5s;
+}
+.btn-order:hover,
+.btn-order:active{
+    color: #fff;
+    background-color: turquoise;
+} 
+/* end navbar */
+/* start banner */
+.btn-outline-info:hover,
+.btn-outline-info:active{
+    color: #fff;
+}
+.banner, .order-form{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('../../assets/img/banniere1.jpg') center center fixed no-repeat;
+    background-size: cover;
+    height: auto;
+}
+.banner .banner-desc{
+    font-size: 48px;
+    font-weight: 400;
+    color:#fff;
+}
+/* end banner */
+/* start nosvariétés */
+.cc-menu{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('../../assets/img/banniere4.jpg') center center fixed no-repeat;
+    background-size: cover;
+    height:auto;
+}
+/* end nosvariétés */
