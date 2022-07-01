@@ -1,2 +1,2 @@
-## Dans ce projet, j'ai utilisée HTML,CSS,Bootstrap et jQuery pour produire des pages Front-end
-## Les images utilisées ont été piquées sur https://pixabay.com/fr/ . Bien vouloir consulter les conditions d'utilisations de ces images.
+Dans ce prototype, j'ai utilisé HTML, CSS, Bootstrap et jquery pour produire les pages Front-end de ce projet
+Les images utilisées ont été piquées sur le https://pixabay.com/fr/ . Bien vouloir consulter les conditions d'utilisation de ces images.
